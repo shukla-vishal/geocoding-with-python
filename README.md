@@ -9,17 +9,13 @@ Why Do We Need Geocoding?
 As compared to traditional address systems, geocoding has some advantages such as-
 
 High Precision & Accuracy:
-
 Traditional address systems can be sometime unprecise, and it can contain spelling mistakes due to inevitable human errors.
-
 geocoding, on the other hand, is more precise and accurate and therefore does not create confusion.
-
 
 Geocoding makes it easy with the universal acceptable system. Data is guaranteed to be consistent, straightforward and clear.
 
-Let’s Begin !!
-In this tutorial, we will use the table from Wikipedia
 
+In this, we will use the table from Wikipedia
 
 We will geocode the addresses of National Parks In India
 
@@ -27,8 +23,4 @@ To start with, we need to import the required libraries which will help us to ac
 
 1) Geocoding the addresses using Geopandas Library
 
-2) Plotting and Visualization using Folium
-
-In previous articles, we have seen information about Geopandas Library.
-
-lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
+2) Plotting and Visualization using Folium.
